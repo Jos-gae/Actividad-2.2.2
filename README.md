@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**IMPORTANTE**
+Recordar que al momento de instalar uno tiene que volver a agregar las dependencias necesarias (la carpeta node_modules que se borra por la alta cantidad de espacio que utiliza).
+
+Para esto se escribe en la terminal de comandos:  npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
